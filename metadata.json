@@ -1,0 +1,6 @@
+{
+  "name": "Sana's Magical Proposal",
+  "description": "An immersive romantic story and proposal website for Sana, featuring interactive countdown, proposal questions, butterfly catching, romantic notes, and lovely animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
